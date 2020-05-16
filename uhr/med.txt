@@ -1,0 +1,10 @@
+fever
+measels
+ache
+stroke
+flu
+cold
+diabetes
+allergy
+asthma
+malaria
